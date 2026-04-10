@@ -15,7 +15,7 @@ in our approach.
 pip install opencv-python scikit-image numpy torch torchvision transformers
 ```
 
-2. Download the dataset from [https://drive.google.com/file/d/1kgtK8rAbQvaWrK_5HcLWAWq_QFRBc203/view?usp=sharing](https://drive.google.com/file/d/1kgtK8rAbQvaWrK_5HcLWAWq_QFRBc203/view?usp=sharing)
+2. Download the dataset from [https://drive.google.com/file/d/1lony64aIi2TsC5uajHsq6IbRtu_0Y_3-/view?usp=sharing](https://drive.google.com/file/d/1lony64aIi2TsC5uajHsq6IbRtu_0Y_3-/view?usp=sharing)
 
 3. Run a baseline comparator for SSIM, ABS, SIFT, CLIP for the GUI screenshots. For example,
 

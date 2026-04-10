@@ -31,8 +31,6 @@ You can obtain the dataset in one of the following ways:
 - GIFdroid: [https://github.com/sidongfeng/gifdroid](https://github.com/sidongfeng/gifdroid)
 - V2S: [https://sites.google.com/view/video2sceneario/home](https://sites.google.com/view/video2sceneario/home) 
 
-Alternatively, you can use our pre-filtered version available at [RQ3/dataset](./RQ3/dataset/).
-
 
 ## Run Experiments
 For each RQ, we provide detailed, step-by-step instructions for setting up the baselines, including environment configuration, dependency installation, hyperparameter settings, and model initialization. After completing the setup, you can execute the provided Python scripts in each RQ folder to run the full set of experiments and automatically reproduce the reported results.
